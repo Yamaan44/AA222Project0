@@ -13,7 +13,7 @@ import numpy as np
 
 
 def f(a, b):
-	'''
+    '''
 	Function for adding two numbers
 	Args:
 		a (float): first number
@@ -23,7 +23,6 @@ def f(a, b):
 	'''
 
 	## Your code goes here
-
+    c = a + b
 	##
-
-	return c
+    return c
